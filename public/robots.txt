@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webptopng.othrys.be/sitemap.xml
