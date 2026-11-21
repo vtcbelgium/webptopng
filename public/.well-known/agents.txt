@@ -1,0 +1,7 @@
+Name: WebP & AVIF to PNG / JPG Converter
+URL: https://webptopng.othrys.be/
+Description: Client-side image converter that transforms WebP and AVIF files into universal PNG and JPG images directly in your browser with zero server uploads.
+LLMs-Txt: https://webptopng.othrys.be/llms.txt
+Sitemap: https://webptopng.othrys.be/sitemap.xml
+Protocol: public-read-only
+Privacy: zero-tracking-cookies, local-browser-execution, zero-cloud-uploads
